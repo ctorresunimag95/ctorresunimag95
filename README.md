@@ -43,6 +43,6 @@ I work at the intersection of architecture and implementation, helping teams del
 
 ## 🤝 Let’s connect
 
-- 💼 LinkedIn: [Camilo Torres Callejas](https://www.linkedin.com/in/catorres95/)
-- 🧑‍💻 GitHub: [ctorresunimag95](https://github.com/ctorresunimag95)
-- 📧 Email: catorresunimag95@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catorres95/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ctorresunimag95)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:catorresunimag95@gmail.com)
